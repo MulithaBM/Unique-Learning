@@ -38,7 +38,6 @@ if(isset($_POST["courseSubmit"])){
 
         } else{
             $four_digit_rand = "ST".mt_rand(1000, 9999);
-
         }
     }
 
